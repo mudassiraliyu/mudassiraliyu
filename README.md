@@ -3,7 +3,7 @@
 - 👀 I’m interested in building clean, modern web applications and exploring new technologies.  
 - 🌱 I’m currently learning **Frontend** Development and will soon be exploring **Backend Development** to become **Full-Stack**.  
 - 💞️ I’m looking to collaborate on **beginner-friendly web projects and open-source contributions**.  
-- 📫 How to reach me: [mudassiraliyuwsh@gmail.com]
+- 📫 How to reach me: [mudassiraliyuwsh@gmail.com](mailto:mudassiraliyuwsh@gmail.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I started coding just to pass my exams — now it has become my hobby and passion 🚀  
 
